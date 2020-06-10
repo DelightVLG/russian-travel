@@ -1,0 +1,7 @@
+@import url('./vendor/normalize.css');
+@import url('./blocks/page/page.css');
+@import url('./blocks/header/header.css');
+
+div, h1, h2, h3, h4, a, ul, p {
+  outline: red 1px solid;
+}

@@ -17,5 +17,5 @@ https://delightvlg.github.io/russian-travel/
 5. grid
 6. @media
 7. Относительные единицы измерения
-8. Адаптивная верстка
+8. Responsive
 9. 

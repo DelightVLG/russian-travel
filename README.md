@@ -2,7 +2,7 @@
 
 ## Ссылка на проект.
 
-https://delightvlg.github.io/russian-travel/
+https://delightvlg.github.io/russian-travel/index.html
 
 ## Описание проекта.
 

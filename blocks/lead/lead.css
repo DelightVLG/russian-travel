@@ -5,5 +5,23 @@
 
 .lead {
   margin: 0 auto;
-  padding: 28px 100px 46px;
+  padding: 28px 148px 46px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    padding: 24px 48px 46px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    padding: 24px 0 44px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    padding: 24px 0 32px;
+  }
 }

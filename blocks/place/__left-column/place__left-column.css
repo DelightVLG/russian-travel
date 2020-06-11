@@ -1,0 +1,22 @@
+.place__left-column {
+  margin-right: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__left-column {
+    margin-right: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__left-column {
+    margin-right: 28px;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+  .place__left-column {
+    margin-right: 0;
+  }
+}

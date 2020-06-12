@@ -1,16 +1,15 @@
-.place__website-fixed-pos {
+.place__website_mt-fixed {
   margin: 30px 0 48px;
 }
 
 @media screen and (max-width: 768px) {
-  .place__website {
+  .place__website_mt-fixed {
     margin: 0 0 48px;
   }
 }
 
-
 @media screen and (max-width: 320px) {
-  .place__website {
+  .place__website_mt-fixed {
     display: none;
   }
 }

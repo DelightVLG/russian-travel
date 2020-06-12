@@ -8,8 +8,11 @@
 @import url('./blocks/photo-grid/photo-grid.css');
 @import url('./blocks/places/places.css');
 @import url('./blocks/place/place.css');
+@import url('./blocks/cover/cover.css');
+@import url('./blocks/footer/footer.css');
 
 
-div, h1, h2, h3, h4, a, ul, p {
+
+/* div, h1, h2, h3, h4, a, ul, p {
   outline: red 1px solid;
-}
+} */

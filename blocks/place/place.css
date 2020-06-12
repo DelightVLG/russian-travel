@@ -27,9 +27,3 @@
   }
 }
 
-@media screen and (max-width: 320px) {
-  .place {
-    flex-wrap: wrap;
-    margin-bottom: 48px;
-  }
-}

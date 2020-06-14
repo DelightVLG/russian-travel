@@ -1,10 +1,9 @@
-@import url('./__left-column/place__left-column.css');
-@import url('./__right-column/place__right-column.css');
+@import url('./__first-column/place__first-column.css');
+@import url('./__second-column/place__second-column.css');
 @import url('./__title/place__title.css');
 @import url('./__image/place__image.css');
 @import url('./__website/place__website.css');
 @import url('./__website/_mt-fixed/place__website_mt-fixed.css');
-@import url('./__website-fixed-pos/place__website-fixed-pos.css');
 @import url('./__url-heading/place__url-heading.css');
 @import url('./__link/place__link.css');
 @import url('./__paragraph/place_paragraph.css');
@@ -23,7 +22,9 @@
 @media screen and (max-width: 600px) {
   .place {
     flex-wrap: wrap;
+    justify-content: center;
     margin-bottom: 48px;
+
   }
 }
 

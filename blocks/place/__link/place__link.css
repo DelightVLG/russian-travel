@@ -11,7 +11,5 @@
 @media screen and (max-width: 650px) {
   .place__link {
     font-size: 15px;
-    line-height: 1.22;
-    color: #fff;
   }
 }

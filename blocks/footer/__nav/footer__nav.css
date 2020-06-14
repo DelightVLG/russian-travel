@@ -12,7 +12,7 @@
     flex-direction: column;
     min-width: 186px;
     align-content: space-between;
-    min-height: 248px;
+    /* min-height: 248px; */
     margin-bottom: 48px;
   }
 }

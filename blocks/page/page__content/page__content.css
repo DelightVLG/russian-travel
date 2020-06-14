@@ -2,7 +2,6 @@
   min-width: 320px;
   /*max-width: 1184px;*/  /* Падинги не по макету. Ограничение по макс ширине чтобы контент не прилипал к краям. Ширина всего макета 1280px. */
   width: 100%;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
